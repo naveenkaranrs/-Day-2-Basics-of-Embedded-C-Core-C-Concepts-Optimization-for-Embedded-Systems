@@ -1,0 +1,1 @@
+# -Day-2-Basics-of-Embedded-C-Core-C-Concepts-Optimization-for-Embedded-Systems
